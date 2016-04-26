@@ -1,7 +1,9 @@
 # QuickX
 
-[Quicksort](https://en.wikipedia.org/wiki/Quicksort) encounters stack-overflow if a pivot is chosen from fixed position in a array.
-This project exhibits a sample of stack-overflow by QuickX.java
+[Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+encounters stack-overflow if a pivot is chosen from fixed position in a array.
+This project exhibits a sample of stack-overflow by
+[QuickX.java](http://algs4.cs.princeton.edu/23quicksort)
 which chooses the pseudomedian of nine as a pivot.
 
     $ cd /tmp

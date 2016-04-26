@@ -1,8 +1,8 @@
 # QuickX
 
 [Quicksort](https://en.wikipedia.org/wiki/Quicksort) encounters stack-overflow if a pivot is chosen from fixed position in a array.
-This project exhibits a sample of stack-overflow.
-The pivot scheme of QuickX.java is known as pseudomedian of nine. 
+This project exhibits a sample of stack-overflow by QuickX.java
+which chooses the pseudomedian of nine as a pivot.
 
     $ cd /tmp
     $ wget http://introcs.cs.princeton.edu/java/stdlib/stdlib.jar

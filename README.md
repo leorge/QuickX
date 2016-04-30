@@ -23,4 +23,4 @@ also encounters stack-overflow as below.
 	at QuickX.sort(QuickX.java:94) 
 	at QuickX.sort(QuickX.java:94) 
 
-Files in this project are downloaded by wget commands above.
+Files in this project are downloaded by the wget commands above.

@@ -2,7 +2,8 @@
 
 The [pseudomedian of nine](https://en.wikipedia.org/wiki/Quicksort#History)
 encounters stack-overflow as below.  
-**QuickX.java** and **stdlib.jar** were downloaded from Princeton University by the wget commands below.
+**QuickX.java** and **stdlib.jar** were downloaded from **Princeton University**
+by the wget commands as below.
 
 
     $ cd /tmp
